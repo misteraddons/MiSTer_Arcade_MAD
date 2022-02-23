@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddonpach</setname>
-	<name>DoDonPachi (20120212 Arrange Ver. 1.1)</name>
+	<setname>ddonpacha</setname>
+	<name>DoDonPachi (Arrange)</name>
 	<region></region>
-	<version>Arrange V1.1</version>
+	<version>2012/02/12 Arrange..</version>
 	<alternative>yes</alternative>
-	<parent_title>DonPachi</parent_title>
+	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
 	<series>DonPachi</series>
 	<homebrew>yes</homebrew>

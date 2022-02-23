@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddonpach</setname>
-	<name>DoDonPachi (JP)</name>
+	<setname>ddonpachj</setname>
+	<name>DoDonPachi (Japan)</name>
 	<region>Japan</region>
-	<version></version>
+	<version>1997 2/5 Master Ver.</version>
 	<alternative>yes</alternative>
-	<parent_title>DonPachi</parent_title>
+	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
 	<series>DonPachi</series>
 	<homebrew>no</homebrew>
