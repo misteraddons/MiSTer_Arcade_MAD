@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>espradej</setname>
-	<name>ESP Ra.De</name>
+	<setname>esprade</setname>
+	<name>ESP Ra.De.</name>
 	<region>World</region>
-	<version></version>
+	<version>1998 4/22 International Ver.</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
 	<platform>CAVE 68000</platform>
