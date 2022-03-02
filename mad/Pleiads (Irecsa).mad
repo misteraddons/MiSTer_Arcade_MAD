@@ -1,18 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pleiadss</setname>
-	<name>Pleiades (Spanish) [bl]</name>
+	<setname>pleiadsi</setname>
+	<name>Pleiads (Irecsa)</name>
 	<region></region>
-	<version>Spanish</version>
+	<version>Irecsa</version>
 	<alternative>yes</alternative>
-	<parent_title>Pleiades</parent_title>
+	<parent_title>Pleiads (Tehkan)</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
+	<bootleg>no</bootleg>
 	<year>1981</year>
 	<manufacturer>Tehkan</manufacturer>
+	<manufacturer>Irecsa</manufacturer>
 	<category>Shooter - Gallery</category>
 
 	<rotation>vertical (cw)</rotation>

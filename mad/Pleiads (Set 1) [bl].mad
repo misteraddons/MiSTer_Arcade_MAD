@@ -2,11 +2,11 @@
 <misterarcadedescription>
 
 	<setname>pleiadbl</setname>
-	<name>Pleiades (Set 1) [bl]</name>
+	<name>Pleiads (Set 1) [bl]</name>
 	<region></region>
 	<version>Set 1</version>
 	<alternative>yes</alternative>
-	<parent_title>Pleiades</parent_title>
+	<parent_title>Pleiads (Tehkan)</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>

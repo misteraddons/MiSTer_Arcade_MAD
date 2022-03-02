@@ -1,19 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pleiadsi</setname>
-	<name>Pleiades (Irecsa)</name>
+	<setname>pleiadsb2</setname>
+	<name>Pleiads (Set 2) [bl]</name>
 	<region></region>
-	<version>Irecsa</version>
+	<version>Set 2</version>
 	<alternative>yes</alternative>
-	<parent_title>Pleiades</parent_title>
+	<parent_title>Pleiads (Tehkan)</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
+	<bootleg>yes</bootleg>
 	<year>1981</year>
 	<manufacturer>Tehkan</manufacturer>
-	<manufacturer>Irecsa</manufacturer>
 	<category>Shooter - Gallery</category>
 
 	<rotation>vertical (cw)</rotation>

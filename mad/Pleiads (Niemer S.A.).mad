@@ -1,26 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pleiads</setname>
-	<name>Pleiades (Tehkan)</name>
+	<setname>pleiadsn</setname>
+	<name>Pleiads (Niemer S.A.)</name>
 	<region></region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<version>Niemer S.A.</version>
+	<alternative>yes</alternative>
+	<parent_title>Pleiads (Tehkan)</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1981</year>
 	<manufacturer>Tehkan</manufacturer>
+	<manufacturer>Niemer SA</manufacturer>
 	<category>Shooter - Gallery</category>
 
 	<rotation>vertical (cw)</rotation>
-	<flip>yes</flip>
+	<flip>no</flip>
 	<resolution>15kHz</resolution>
 
 	<players>2 (alternating)</players>
-	<move_inputs>2-way (horizontal</move_inputs>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>1</num_buttons>
 
