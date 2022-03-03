@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>outzonea</setname>
+  <name>Out Zone (old set)</name>
+  <region/>
+  <version>old set</version>
+  <alternative>yes</alternative>
+  <parent_title>Out Zone</parent_title>
+  <platform>zerowing</platform>
+  <series>Out Zone</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>Toaplan</manufacturer>
+  <category>Run 'n' Gun - Horizontal</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>
