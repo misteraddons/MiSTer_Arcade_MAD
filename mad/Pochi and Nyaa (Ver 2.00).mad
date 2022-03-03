@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>pnyaaa</setname>
+  <name>Pochi and Nyaa (Ver 2.00)</name>
+  <region/>
+  <version>NGM-2670</version>
+  <alternative>yes</alternative>
+  <parent_title>Pochi and Nyaa (Ver 2.02)</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2003</year>
+  <manufacturer>Aiky</manufacturer>
+  <manufacturer>Taito</manufacturer>
+  <category>Puzzle</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

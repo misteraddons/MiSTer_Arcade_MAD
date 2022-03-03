@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>aodk</setname>
+  <name>Aggressors of Dark Kombat ~ Tsuukai GANGAN Koushinkyoku (ADM-008 ~ ADH-008)</name>
+  <region/>
+  <version>NGM-074 / ADM-008 (MVS) ~ NGH-074 / ADH-008 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>ADK</manufacturer>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>maglordh</setname>
+  <name>Magician Lord (NGH-005)</name>
+  <region/>
+  <version>NGH-005</version>
+  <alternative>yes</alternative>
+  <parent_title>Magician Lord (NGM-005)</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>Alpha Denshi Co.</manufacturer>
+  <category>Platform</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

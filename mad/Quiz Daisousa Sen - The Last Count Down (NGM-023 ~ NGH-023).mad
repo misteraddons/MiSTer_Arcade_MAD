@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>quizdais</setname>
+  <name>Quiz Daisousa Sen - The Last Count Down (NGM-023 ~ NGH-023)</name>
+  <region/>
+  <version>NGM-023 (MVS), NGH-023 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Quiz Daisousa Sen</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Quiz</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>
