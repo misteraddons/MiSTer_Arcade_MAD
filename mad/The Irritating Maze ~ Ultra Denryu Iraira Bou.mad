@@ -21,6 +21,6 @@
 
   <players>2 (alternating)</players>
   <move_inputs/>
-  <special_controls>trackball</trackball>
+  <special_controls>trackball</special_controls>
   <num_buttons>2</num_buttons>
 </misterarcadedescription>
