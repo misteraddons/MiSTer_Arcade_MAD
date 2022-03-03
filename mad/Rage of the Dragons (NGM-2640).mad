@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>rotd</setname>
+  <name>Rage of the Dragons (NGM-2640)</name>
+  <region/>
+  <version>NGM-2640?</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Double Dragon</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2002</year>
+  <manufacturer>Evoga</manufacturer>
+  <manufacturer>Playmore</manufacturer>
+  <category>Fighting</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>3countb</setname>
+  <name>3 Count Bout ~ Fire Suplex (NGM-043 ~ NGH-043)</name>
+  <region/>
+  <version>NGM-043 (MVS), NGH-043 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Sports</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

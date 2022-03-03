@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>samsho4k</setname>
+  <name>Pae Wang Jeon Seol ~ Legend of a Warrior (Korean censored Samurai Shodown IV)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Samurai Shodown IV - Amakusa's Revenge ~ Samurai Spirits - Amakusa Kourin (NGM-222 ~ NGH-222)</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Samurai Shodown</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1996</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>
