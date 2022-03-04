@@ -1,26 +1,28 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ringdesth</setname>
-	<name>Ring of Destruction - Slam Masters II (HS, 940902)</name>
-	<region>Hispanic</region>
-	<version>940902</version>
+	<setname>1944j</setname>
+	<name>1944 - The Loop Master (JP, 000620)</name>
+	<region>Japan</region>
+	<version>000620</version>
 	<alternative>yes</alternative>
-	<parent_title>Ring of Destruction - Slam Masters II</parent_title>
+	<parent_title>1944 - The Loop Master</parent_title>
 	<platform>Capcom CPS-2</platform>
-	<series>Muscle Bomber</series>
+	<series>19XX</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
+	<year>2000</year>
+	<manufacturer>Eighting</manufacturer>
+	<manufacturer>Raizing</manufacturer>
 	<manufacturer>Capcom</manufacturer>
-	<category>Sports</category>
+	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>6</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

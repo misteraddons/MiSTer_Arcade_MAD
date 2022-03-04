@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ringdesth</setname>
-	<name>Ring of Destruction - Slam Masters II (HS, 940902)</name>
-	<region>Hispanic</region>
-	<version>940902</version>
-	<alternative>yes</alternative>
-	<parent_title>Ring of Destruction - Slam Masters II</parent_title>
+	<setname>smbomb</setname>
+	<name>Super Muscle Bomber - The International Blowout (JP, 940831)</name>
+	<region>Japan</region>
+	<version>940831</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Muscle Bomber</series>
 	<homebrew>no</homebrew>

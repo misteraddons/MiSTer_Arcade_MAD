@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ringdesth</setname>
-	<name>Ring of Destruction - Slam Masters II (HS, 940902)</name>
-	<region>Hispanic</region>
-	<version>940902</version>
-	<alternative>yes</alternative>
-	<parent_title>Ring of Destruction - Slam Masters II</parent_title>
+	<setname>nwarr</setname>
+	<name>Night Warriors - Darkstalkers' Revenge (EU, 950316)</name>
+	<region>Europe</region>
+	<version>950316</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
-	<series>Muscle Bomber</series>
+	<series>Darkstalkers</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
+	<year>1995</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Sports</category>
+	<category>Fighting</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

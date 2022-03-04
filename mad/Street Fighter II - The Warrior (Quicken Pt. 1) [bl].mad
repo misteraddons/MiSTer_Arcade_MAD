@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ringdesth</setname>
-	<name>Ring of Destruction - Slam Masters II (HS, 940902)</name>
-	<region>Hispanic</region>
-	<version>940902</version>
+	<setname>sf2qp1</setname>
+	<name>Street Fighter II - The Warrior (Quicken Pt. 1) [bl]</name>
+	<region></region>
+	<version>Quicken Pt. 1</version>
 	<alternative>yes</alternative>
-	<parent_title>Ring of Destruction - Slam Masters II</parent_title>
-	<platform>Capcom CPS-2</platform>
-	<series>Muscle Bomber</series>
+	<parent_title>Street Fighter II</parent_title>
+	<platform>Capcom CPS-1</platform>
+	<series>Street Fighter</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1994</year>
+	<bootleg>yes</bootleg>
+	<year>1991</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Sports</category>
+	<category>Fighting</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

@@ -1,19 +1,20 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ringdesth</setname>
-	<name>Ring of Destruction - Slam Masters II (HS, 940902)</name>
-	<region>Hispanic</region>
-	<version>940902</version>
-	<alternative>yes</alternative>
-	<parent_title>Ring of Destruction - Slam Masters II</parent_title>
+	<setname>mvsc</setname>
+	<name>Marvel Vs. Capcom - Clash of Super Heroes (EU, 980123)</name>
+	<region>Europe</region>
+	<version>980123</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
-	<series>Muscle Bomber</series>
+	<series>Marvel</series>
+	<series>Capcom</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
+	<year>1998</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Sports</category>
+	<category>Fighting</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
