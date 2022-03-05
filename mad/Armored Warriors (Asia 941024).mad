@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>armwara</setname>
+  <name>Armored Warriors (Asia 941024)</name>
+  <region>Asia</region>
+  <version>941024</version>
+  <alternative>yes</alternative>
+  <parent_title>Armored Warriors (Euro 941024)</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Beat 'em Up</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>3 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>dimahoo</setname>
+  <name>Dimahoo (Euro 000121)</name>
+  <region>Euro</region>
+  <version>000121</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2000</year>
+  <manufacturer>Eighting</manufacturer>
+  <manufacturer>Raizing</manufacturer>
+  <manufacturer>Capcom</manufacturer>
+  <category>Shooter - Vertical</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

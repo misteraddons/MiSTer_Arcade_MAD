@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>csclub1d</setname>
+  <name>Capcom Sports Club (Euro 970722 Phoenix Edition)</name>
+  <region>Euro</region>
+  <version>970722 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Capcom Sports Club (Euro 971017)</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1997</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Sports</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

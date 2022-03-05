@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<misterarcadedescription>
+  <setname>sfz2ald</setname>
+  <name>Street Fighter Zero 2 Alpha (Asia 960826 Phoenix Edition)</name>
+  <region>Asia</region>
+  <version>960826 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Street Fighter Zero 2 Alpha (Asia 960826)</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1996</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Fighting</category>
+
+  <resolution>15kHz</resolution>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>
