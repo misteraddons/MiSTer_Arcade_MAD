@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-	<setname>1943mii</setname>
-	<name>1943 - The Battle of Midway Mark II (USA)</name>
+	<setname>1943u</setname>
+	<name>1943 - The Battle of Midway (USA, Rev C)</name>
 	<region>USA</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<version>Rev C</version>
+	<alternative>yes</alternative>
+	<parent_title>1943 - The Battle of Midway</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>

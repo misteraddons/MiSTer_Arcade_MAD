@@ -1,12 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-
 	<setname>1943j</setname>
-	<name>1943 - Midway Kaisen (JP, Rev B)</name>
+	<name>1943 - Midway Kaisen (Japan, Rev B)</name>
 	<region>Japan</region>
 	<version>Rev B</version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<alternative>yes</alternative>
+	<parent_title>1943 - The Battle of Midway</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>
 	<homebrew>no</homebrew>
@@ -16,11 +15,11 @@
 	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

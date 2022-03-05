@@ -1,9 +1,8 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-
 	<setname>1943jah</setname>
-	<name>1943 - Midway Kaisen (no Protection) [hb]</name>
-	<region></region>
+	<name>1943 - Midway Kaisen (Japan, no protection hack)</name>
+	<region>Japan</region>
 	<version>no Protection</version>
 	<alternative>yes</alternative>
 	<parent_title>1943 - The Battle of Midway</parent_title>
@@ -16,11 +15,11 @@
 	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>
