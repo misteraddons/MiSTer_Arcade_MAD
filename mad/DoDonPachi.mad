@@ -4,7 +4,7 @@
 	<setname>ddonpach</setname>
 	<name>DoDonPachi</name>
 	<region>World</region>
-	<version></version>
+	<version>1997 2/5 Master Ver.</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
 	<platform>CAVE 68000</platform>
@@ -13,6 +13,7 @@
 	<bootleg>no</bootleg>
 	<year>1997</year>
 	<manufacturer>CAVE</manufacturer>
+	<manufacturer>Atlus</manufacturer>
 	<category>Shooter - Vertical</category>
 
 	<rotation>vertical (ccw)</rotation>
