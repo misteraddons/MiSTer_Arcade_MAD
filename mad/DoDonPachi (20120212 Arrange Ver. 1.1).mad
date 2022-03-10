@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddonpacha</setname>
+	<setname>ddonpach</setname>
 	<name>DoDonPachi (20120212 Arrange Ver. 1.1)</name>
 	<region></region>
 	<version>Arrange V1.1</version>
@@ -11,8 +11,8 @@
 	<series>DonPachi</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>2012</year>
-	<manufacturer>hack</manufacturer>
+	<year>1997</year>
+	<manufacturer>CAVE</manufacturer>
 	<category>Shooter - Vertical</category>
 
 	<rotation>vertical (ccw)</rotation>
