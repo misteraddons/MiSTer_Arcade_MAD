@@ -6,9 +6,9 @@
 	<region></region>
 	<version>Arrange V1.1</version>
 	<alternative>yes</alternative>
-	<parent_title>DonPachi</parent_title>
+	<parent_title></parent_title>
 	<platform>CAVE 68000</platform>
-	<series>DonPachi</series>
+	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>1997</year>
